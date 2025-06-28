@@ -402,7 +402,7 @@ footer {
   stroke: var(--vermelho);
   stroke-dasharray: 48, 144;
   stroke-dashoffset: 192;
-  animation: dash_682 2s linear infinite;
+  animation: dash_682 3s linear infinite;
 }
 
 @keyframes dash_682 {
